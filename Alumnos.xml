@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alumnos>
+    <alumno>
+        <nombre>Darth Vader</nombre>
+        <dni>27272727M</dni>
+        <fecha_matricula>1977-11-07</fecha_matricula>
+        <ciclo>Sith</ciclo>
+        <asignaturas_matriculadas>3</asignaturas_matriculadas>
+    </alumno>
+    <alumno>
+        <nombre>Leia Organa</nombre>
+        <dni>28282828M</dni>
+        <fecha_matricula>1977-11-07</fecha_matricula>
+        <ciclo>Jedi</ciclo>
+        <asignaturas_matriculadas>5</asignaturas_matriculadas>
+    </alumno>
+    <alumno>
+        <nombre>Amo Luke</nombre>
+        <dni>29292929M</dni>
+        <fecha_matricula>1977-11-07</fecha_matricula>
+        <ciclo>Jedi</ciclo>
+        <asignaturas_matriculadas>5</asignaturas_matriculadas>
+    </alumno>
+</alumnos>
